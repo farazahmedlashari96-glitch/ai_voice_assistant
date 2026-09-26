@@ -1,0 +1,9 @@
+Django>=5.0
+django-cors-headers>=4.4
+groq>=0.30.0
+python-dotenv>=1.0.1
+
+# Terminal mode only (python manage.py talk): microphone recording and speaker playback.
+# The web app does not need these. On Linux also run: sudo apt install libportaudio2
+numpy>=1.26
+sounddevice>=0.4.7

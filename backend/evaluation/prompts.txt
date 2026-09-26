@@ -1,0 +1,12 @@
+# One question per line (lines starting with # are ignored).
+# Used by:  python manage.py evaluate   -> measures LLM + TTS speed and collects replies to rate by hand.
+What is the capital of France?
+Tell me a fun fact about space.
+How many days are there in a leap year?
+Explain what an API is in simple words.
+Give me a quick tip for staying focused while studying.
+What is the difference between speech recognition and speech synthesis?
+Translate "good morning" into Spanish.
+How do I boil an egg?
+Who wrote the play Romeo and Juliet?
+Tell me a short joke.
